@@ -1,0 +1,29 @@
+Basic Aggregate Function Queries
+
+Find the total number of students in the university.
+Count the number of instructors in each department.
+Find the highest salary among all instructors.
+Calculate the average salary of instructors in each department.
+Find the total number of courses offered by each department.
+Retrieve the total number of enrollments in each course.
+Calculate the average grade of students for each course.
+Find the earliest and latest enrollment date for students.
+Count the number of students in each department.
+Find the total number of books borrowed from the library.
+
+GROUP BY with Aggregate Functions
+
+Find the total number of male and female students in each department.
+Calculate the total credits assigned to each department.
+List the number of students enrolled in each course.
+Find the number of courses taught by each instructor.
+Retrieve the number of enrollments per course along with the course name.
+
+
+HAVING Clause Queries
+
+Find departments that have more than 5 instructors.
+Find courses where more than 10 students are enrolled.
+Retrieve instructors who have a salary greater than the average salary.
+Find departments with more than 15 students enrolled.
+Find courses that have an average grade higher than 'B'.
