@@ -1,3 +1,5 @@
+-- Active: 1741845928797@@127.0.0.1@3306
+
 CREATE DATABASE university;
 USE university;
 

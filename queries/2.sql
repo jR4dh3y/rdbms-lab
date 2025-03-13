@@ -62,4 +62,3 @@ select * from passenger_details WHERE pnr = 11012;
 select * from passenger_details WHERE passenger_name LIKE "R%";
 select * from passenger_details WHERE passenger_name LIKE "%l";
 
-

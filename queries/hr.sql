@@ -1,6 +1,5 @@
-create DATABASE hr;
-use hr;
-
+CREATE DATABASE hr;
+USE hr;
 
 CREATE TABLE regions  
     ( region_id      numeric(4) PRIMARY KEY , 
